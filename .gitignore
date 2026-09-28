@@ -2,4 +2,5 @@ __pycache__/
 venv/
 aadhaar.pdf
 marksheet.pdf
-pan.pdf
+pan.pdf.env
+.vscode/
